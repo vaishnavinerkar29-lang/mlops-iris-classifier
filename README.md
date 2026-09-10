@@ -1,1 +1,1 @@
-# mlops-iris-classifier — Version B
+# mlops-iris-classifier — Version A + B (resolved)
